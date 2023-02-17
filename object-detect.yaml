@@ -1,6 +1,6 @@
-train: ../object-detect/images/train/ 
-val:  ../object-detect/images/val/
-test: ../object-detect/images/test/
+train: ../yolov5/object-detect/images/train/ 
+val:  ../yolov5/object-detect/images/val/
+test: ../yolov5/object-detect/images/test/
 
 # number of classes
 nc: 3
