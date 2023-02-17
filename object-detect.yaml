@@ -1,0 +1,9 @@
+train: ../object-detect/images/train/ 
+val:  ../object-detect/images/val/
+test: ../object-detect/images/test/
+
+# number of classes
+nc: 3
+
+# class names
+names: ["profile-image","logo-stamp", "signature"]
