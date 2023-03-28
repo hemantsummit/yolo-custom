@@ -3,7 +3,7 @@ val:  ../yolov5/object-detect/images/val/
 test: ../yolov5/object-detect/images/test/
 
 # number of classes
-nc: 3
+nc: 1
 
 # class names
-names: ["profile-image","logo-stamp", "signature"]
+names: ["data"]
